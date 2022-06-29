@@ -11,9 +11,13 @@ section {
 }
 
 h2 {
-    margin: 1vh;
+    margin-top: 1vh;
 }
 
 p {
     margin-top: 2.25vh;
+}
+
+.img {
+    height: 250px;
 }
