@@ -1,0 +1,19 @@
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h2 {
+    margin: 1vh;
+}
+
+p {
+    margin-top: 2.25vh;
+}
